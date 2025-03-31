@@ -15,18 +15,6 @@ A modern, feature-rich voice assistant powered by Google's Gemini 1.5 Flash API.
 - **🌐 Gemini 1.5 Flash**: Faster, more efficient AI responses
 - **🎨 Beautiful Animations**: Smooth transitions and visual feedback
 
-## 📱 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/dark_mode.png" alt="Dark Mode" width="200"/></td>
-      <td><img src="screenshots/light_mode.png" alt="Light Mode" width="200"/></td>
-      <td><img src="screenshots/voice_input.png" alt="Voice Input" width="200"/></td>
-    </tr>
-  </table>
-</div>
-
 ## 🚀 Getting Started
 
 ### Prerequisites
